@@ -28,7 +28,7 @@ namespace ch10_가위바위보게임
             }
             Console.WriteLine();
             Console.WriteLine("총 게임 횟수 {0} 번 ", cnt);
-            Console.WriteLine("컴의가위 = {0}, 컴의 바위 = {1} , 컴의 보 = {2} ", ga, ba, bo);
+            Console.WriteLine("컴의 가위 = {0}, 컴의 바위 = {1} , 컴의 보 = {2} ", ga, ba, bo);
             Console.WriteLine("서로비김= {0}, 내가 승 = {1} , 내가 패 = {2}", my_d, my_w, my_l);
         }          
     }
